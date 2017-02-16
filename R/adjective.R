@@ -69,7 +69,8 @@ adjective <- c(
   "impressive",
   "incredible",
   "irresistible",
-  "just wow",
+  "just wow"
+  "kiff",
   "kickass",
   "kryptonian",
   "laudable",
